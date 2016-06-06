@@ -1,2 +1,2 @@
 See folder/file with assignment name at:
-https://github.com/jhedfors/MEAN.1.Javascript.git
+https://github.com/jhedfors/MEAN.1.Javascript.Fundamentals.git
